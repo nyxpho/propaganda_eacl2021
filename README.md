@@ -1,1 +1,1 @@
-# propaganda_eacl2021
+# Code for From the Stage to the Audience: Propaganda on Reddit
